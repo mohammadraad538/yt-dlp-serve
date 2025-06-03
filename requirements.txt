@@ -1,2 +1,3 @@
 Flask==2.3.3
-yt-dlp==2024.5.27  # temp edit
+yt-dlp==2024.5.27
+gunicorn==21.2.0
